@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": {
+      "translate": "guise.description",
+      "fallback": "The minecraft GUI made into a Embeddium-like GUI!"
+                   },
+    "supported_formats": [34, 63]
+          }
+}
